@@ -3,8 +3,20 @@
     <channel>
         <title>Nagare Worker</title>
         <item>
+            <title>0.5.2</title>
+            <pubDate>Fri, 25 Sep 2026 09:05:41 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/NagareWorker-0.5.2.zip" length="53065816" type="application/octet-stream" sparkle:edSignature="QeiossvT5Aa9FNVdM1zUiOdB3dbJB3Nxor9fneSIodGW72GBkhyTuBevrd9y/ZJ9jy34+xEXT8oyIBo8CuzFBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker3-2.delta" sparkle:deltaFrom="2" length="290326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1MuFpYLd589/W4mldwq6T/JckF7mlXSN/7sFINynGldb9Lp8y9ntNarf1LzdpPgnTHBBKkW9tjIK8ErKwcOiAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.1</title>
-            <pubDate>Fri, 25 Sep 2026 08:06:04 +0000</pubDate>
+            <pubDate>Fri, 25 Sep 2026 09:05:41 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
