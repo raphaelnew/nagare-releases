@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nagare Worker</title>
+        <item>
+            <title>0.5.1</title>
+            <pubDate>Fri, 25 Sep 2026 08:06:04 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/NagareWorker-0.5.1.zip" length="53015935" type="application/octet-stream" sparkle:edSignature="ilQCeNFgrbqE1s3v0udIjs0wSTbuNalVuUU2aalcjRKG9gMc0WRUP//BDSEkC7a8FdNQtbpp0N44mtBlzk5MDQ=="/>
+        </item>
+    </channel>
+</rss>
