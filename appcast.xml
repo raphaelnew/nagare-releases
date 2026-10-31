@@ -3,38 +3,38 @@
     <channel>
         <title>Nagare Worker</title>
         <item>
+            <title>0.8.5</title>
+            <pubDate>Sat, 31 Oct 2026 15:05:44 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/NagareWorker-0.8.5.zip" length="55224300" type="application/octet-stream" sparkle:edSignature="oCNlh0Ld0n7LNaoEZzvAU8mepP0g0b+AKyczIB+n+x2/Q4DRw5v+BTveBtbBsw4Y28l0R93kFzGbCkOfouIJDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker26-25.delta" sparkle:deltaFrom="25" length="150798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7kKheI73gph2CbrCGCG/+MApdjaqJVjaJHK2qk/qjNJODUsZGAullkb9KNZWQSZ0Ws6EQ/Gk43q7gYQZbFrgCw=="/>
+                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker26-24.delta" sparkle:deltaFrom="24" length="162382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="scC0ks34e9Ix0oUtfES+YCgziMZ3TOsaE7zN+opTzOHaWvkkouK/m0aMFL1aTzFYULGiFL1nKy9P4ummk7gvAA=="/>
+                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker26-23.delta" sparkle:deltaFrom="23" length="1060910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1IHyNiQ7+8yL6X9JUXuvvjdIhIk+B9fmEoeIaDwdSCDVa/cH5B/5Nw/4N15ecWchlmtKbNzfdplK3ZiKjRAxCg=="/>
+                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker26-22.delta" sparkle:deltaFrom="22" length="1096458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zneX1JesCZOcKgjGNiFd/voT4/u4ed9dsZRqVbWa40d+wxdhuUlmOWpIU/k/iWNCGGeW6aPSm0WYnjD7AewiCw=="/>
+                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker26-21.delta" sparkle:deltaFrom="21" length="1289962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="507K89DhT68hZOgPXoeQkRrOUrvo9zJxnWLZKIyH4x25p+qhshh3bgyoc5D3j5bgw5P2cqglx5kf5LCR9luQDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.4</title>
-            <pubDate>Fri, 30 Oct 2026 20:41:22 +0000</pubDate>
+            <pubDate>Sat, 31 Oct 2026 15:05:43 +0000</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/NagareWorker-0.8.4.zip" length="55217897" type="application/octet-stream" sparkle:edSignature="ObnaH03vbtenpGcfEWU48j/4iPB6e7uRyACR5DfyGFTa1n1aiwRYdfFPvQEG2ER1OS2x3LMwP3iwfYnd/A+0DQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker25-24.delta" sparkle:deltaFrom="24" length="59366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rZkqiZX7suW1zhg0sVw8YZYy61oQ2T3yRsIXSlIU3vq5ouR55PizK4XjCryTQE+dYCLVoYOAl98bUCgPnUviCA=="/>
-                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker25-23.delta" sparkle:deltaFrom="23" length="1053502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BlZXJU5XKBrFYdVaBNn6DOxIyVVh6JUQFCQoqfGzS6NSUhMoipfrJXFHrOuuccQGsG8YkfvsEjx/a6y671kzCA=="/>
-                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker25-22.delta" sparkle:deltaFrom="22" length="1088138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ar30bxBAmaj8uKQV+vQZxm/3oH/rZLfmXfvGNFmO5g+HzU0aege9NeDWMVG8c67rWUGX9C99VVPnYQHNUAIxAg=="/>
-                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker25-21.delta" sparkle:deltaFrom="21" length="1282290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="051LP9R1KX9Do7lr03GhVHrUUR2Q1bewcxtSyYQadShFkBKbRRk4S1p/2cNlUVGs7e/TKSfohA8eZRnf8BUPAA=="/>
-                <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/Nagare%20Worker25-20.delta" sparkle:deltaFrom="20" length="1690442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CWPmH8XDFkAxZ6dG2OcrGjAepdUZb20hM0keawAN4GC/NhgjuOscjPjUD1nJJZZW3N8sJS22I5pNN6EBRhGEBA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.8.3</title>
-            <pubDate>Fri, 30 Oct 2026 20:41:21 +0000</pubDate>
+            <pubDate>Sat, 31 Oct 2026 15:05:43 +0000</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/NagareWorker-0.8.3.zip" length="55214257" type="application/octet-stream" sparkle:edSignature="jL1Ai9ycHR4mgxS2us7hJSfMuNIQzxvHDYyJE1ZbWtfZ30FMZJKpP+M8u26wyYfuz7xCasFM1AdyzTsME48KCQ=="/>
-        </item>
-        <item>
-            <title>0.8.2</title>
-            <pubDate>Fri, 30 Oct 2026 20:41:20 +0000</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/raphaelnew/nagare-releases/releases/download/downloads/NagareWorker-0.8.2.zip" length="54917984" type="application/octet-stream" sparkle:edSignature="PRqN/+kAdH/6t4xVpGDm2EzE3rtGUr3Iya4IV9J+tAzGWwGkLx3+QHqrC3b8ap/yv90AfmjFrmlHudJxSRNNDQ=="/>
         </item>
     </channel>
 </rss>
